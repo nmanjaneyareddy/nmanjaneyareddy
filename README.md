@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Anjaneya Reddy
 - 👀 I’m interested in libraries, data science, and AI applications
-- 📫 How to reach me @https://github.com/nmanjaneyareddy
 - 😄 Pronouns: He/Him
 
 
